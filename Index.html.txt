@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<img src="https://www.dictionary.com/e/wp-content/uploads/2020/02/uwu_800x800-300x300.jpg" width="150">
+<h1>Fahim</h1>
+<h2>Aspiring Software Developer</h2>
+<p>Welcome to my page!</p>
+<a href="https://github.com/Fahim-Dot-Com" target="_blank">GitHub</a>
+<a href="https://profile.indeed.com/?hl=en_GB&co=GB&from=gnav-jobseeker-profile--profile-one-frontend" target="_blank">Indeed</a>
+</body>
+</html> 
