@@ -1,0 +1,12 @@
+img {
+ border-radius: 0px;
+}
+h2 {
+ font-size: 18px;
+}
+body {
+ background-color: slateblue; font-family: trebuchet; color: white; text-align: center;
+}
+a {
+ background-color: white; font-size: 20px; border-radius: 10px; padding: 10px; display: block; text-align: center; margin: 10px; color: slateblue;
+}
