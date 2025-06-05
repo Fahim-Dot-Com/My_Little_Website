@@ -10,7 +10,8 @@ It's my little website showing me to my profiles hope you enjoy! This is a simpl
 
 ## 📷 Preview
 
-![Preview](https://www.dictionary.com/e/wp-content/uploads/2020/02/uwu_800x800-300x300.jpg)
+![Screenshot_20250605_103328_Mimo](https://github.com/user-attachments/assets/6c30dc22-6ab6-4235-a009-b5a0cd4340e5)
+
 
 ## 🌐 Live Demo
 
