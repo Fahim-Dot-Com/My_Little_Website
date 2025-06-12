@@ -10,7 +10,8 @@ It's my little website showing me to my profiles hope you enjoy! This is a simpl
 
 ## 📷 Preview
 
-![Screenshot_20250605_103328_Mimo](https://github.com/user-attachments/assets/6c30dc22-6ab6-4235-a009-b5a0cd4340e5)
+![Screenshot_20250612_153040_Mimo](https://github.com/user-attachments/assets/08cc50b4-7769-4cbc-a894-0a227b26e0ec)
+
 
 
 ## 🌐 Live Demo
