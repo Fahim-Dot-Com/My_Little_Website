@@ -8,6 +8,8 @@
 <h1>Fahim</h1>
 <h2>Aspiring Software Developer</h2>
 <p>Welcome to my page!</p>
+<a href = "https://www.linkedin.com/in/fahim-akhtar-6254402b9"
+target="_blank">LinkedIn</a>
 <a href="https://github.com/Fahim-Dot-Com" target="_blank">GitHub</a>
 <a href="https://profile.indeed.com/?hl=en_GB&co=GB&from=gnav-jobseeker-profile--profile-one-frontend" target="_blank">Indeed</a>
 </body>
