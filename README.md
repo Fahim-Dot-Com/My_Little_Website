@@ -23,6 +23,9 @@ You can host this on GitHub Pages, Netlify, or any static site hosting service.
 - HTML5
 - CSS3
 
-## 📁 Project Structure
+## 💁‍♂️ See my other related projects!
 
+- https://github.com/Fahim-Dot-Com/CelebratoryTime
+
+- https://github.com/Fahim-Dot-Com/MyMegaReadMe
 
